@@ -1,0 +1,23 @@
+.nav-wrapper{
+    background-color: #6f4037;
+}
+.slider .indicators .indicator-item.active{
+    background-color: #6f4037;
+}
+.move{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+.icon-coffee{
+    color: #6f4037;
+}
+.footer-one{
+    background-color: #6f4037;
+}
+.footer-two{
+    background-color: #462822;
+}
